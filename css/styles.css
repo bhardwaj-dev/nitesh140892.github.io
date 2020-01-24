@@ -595,7 +595,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 7.4375rem;
+    width: 13.4375rem;
     height: 3.75rem;
 
 }
@@ -992,15 +992,15 @@ input[type='checkbox'] {
 }
 
 .cards-2 .card .price {
-	padding-top: 0.875rem;
-	padding-bottom: 1.5rem;
+	padding-top: 0rem;
+	padding-bottom: 0rem;
 }
 
 .cards-2 .card .value {
 	color: #00bfd8;
 	font-weight: 700;
-	font-size: 3.5rem;
-	line-height: 4rem;
+	font-size: 2.5rem;
+	line-height: 3rem;
 	text-align: center;
 }
 
@@ -1897,7 +1897,7 @@ a:hover.back-to-top {
 	}
 
 	.form-1 .text-container {
-		margin-top: 1.5rem;
+		margin-top: -1.5rem;
 		margin-bottom: 0;
 	}
 	/* end of request */
@@ -1971,7 +1971,7 @@ a:hover.back-to-top {
 	
 	/* Navigation */
 	.navbar-custom {
-		padding: 0.125rem 1rem 2.125rem 5rem;
+		padding: 0.125rem 1rem 2.125rem 1rem;
 	}
 
 	.navbar-custom.top-nav-collapse {
@@ -2153,7 +2153,7 @@ a:hover.back-to-top {
 
     .panel-heading [data-toggle="collapse"]:after {
        
-        content: "\f054"; /* "play" icon */
+      
         float: right;
         
         line-height: 22px;
@@ -2187,7 +2187,8 @@ text-decoration: none;
     border-radius: 15px 15px 0px 0px;
 }
 .card {
-    box-shadow: 0px 2px 20px 2px #00bfd95e;
+    box-shadow: 0px 2px 5px 2px #00bfd866;
+
 }
 .circle {
   padding: 13px 20px;
