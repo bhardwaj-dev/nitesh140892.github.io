@@ -3,6 +3,7 @@ body,
 html {
     width: 100%;
 	height: 100%;
+
 }
 
 body, p {
@@ -1002,6 +1003,7 @@ input[type='checkbox'] {
 	font-size: 2.5rem;
 	line-height: 3rem;
 	text-align: center;
+	font-family: sans-serif;
 }
 
 .cards-2 .card .currency {
@@ -2259,4 +2261,11 @@ text-decoration: none;
 .timeline .right-bottom {
   left: 50%;
   top: calc(50% - 3px);
+}
+
+
+.fb_reset>div {
+    overflow: hidden;
+    top: 80% !important;
+    right: 5pt !important;
 }
