@@ -774,15 +774,15 @@ input[type='checkbox'] {
 	margin-right: auto;
 	margin-bottom: 4.5rem;
 	margin-left: auto;
-	padding: 3.25rem 2rem 2rem 2rem;
+	padding: 1rem 1rem 1rem 1rem;
 	border: 1px solid #c4d8dc;
 	border-radius: 0.5rem;
 	background: transparent;
 }
 
+
 .cards-1 .card-image {
-	width: 6rem;
-	height: 6rem;
+	
 	margin-right: auto;
 	margin-bottom: 2rem;
 	margin-left: auto;
@@ -2269,3 +2269,4 @@ text-decoration: none;
     top: 80% !important;
     right: 5pt !important;
 }
+
